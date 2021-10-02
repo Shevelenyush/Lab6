@@ -1,0 +1,61 @@
+[ {
+    "id": 718619713047619590 ,
+    "name": "1",
+    "x": 1,
+    "y": 1.0,
+    "creationDate": "Fri Oct 01 22:40:35 MSK 2021",
+    "numberOfParticipants": 1,
+    "singlesCount": 1,
+    "albumsCount": 1,
+    "genre": "BRIT_POP",
+    "name": "null",
+    "address": "1"
+    },{
+    "id": 6363746617399034744 ,
+    "name": "11",
+    "x": 1,
+    "y": 1.0,
+    "creationDate": "Fri Oct 01 22:40:35 MSK 2021",
+    "numberOfParticipants": 1,
+    "singlesCount": 1,
+    "albumsCount": 1,
+    "genre": "BRIT_POP",
+    "name": "null",
+    "address": "11"
+    },{
+    "id": 1 ,
+    "name": "null",
+    "x": 1,
+    "y": 1.0,
+    "creationDate": "Fri Oct 01 22:40:35 MSK 2021",
+    "numberOfParticipants": 1,
+    "singlesCount": 1,
+    "albumsCount": 1,
+    "genre": "BRIT_POP",
+    "name": "null",
+    "address": "1"
+    },{
+    "id": 2 ,
+    "name": "null",
+    "x": 1,
+    "y": 1.0,
+    "creationDate": "Fri Oct 01 22:40:35 MSK 2021",
+    "numberOfParticipants": 1,
+    "singlesCount": 1,
+    "albumsCount": 1,
+    "genre": "POST_PUNK",
+    "name": "null",
+    "address": "1"
+    },{
+    "id": 3 ,
+    "name": "null",
+    "x": 1,
+    "y": 1.0,
+    "creationDate": "Fri Oct 01 22:40:35 MSK 2021",
+    "numberOfParticipants": 1,
+    "singlesCount": 1,
+    "albumsCount": 1,
+    "genre": "BRIT_POP",
+    "name": "null",
+    "address": "1"
+    }]

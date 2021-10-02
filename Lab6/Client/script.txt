@@ -1,0 +1,13 @@
+help
+info
+show
+remove_by_id 1
+save
+remove_last
+remove_greater 2
+history
+remove_any_by_genre PROGRESSIVE_ROCK
+count_by_studio aaa
+clear
+print_field_descending_studio
+exit
